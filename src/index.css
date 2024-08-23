@@ -1,0 +1,114 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.all {
+  width: 80%;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  height:90vh;
+}
+
+
+.shop {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.Container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.allimg {
+  flex: 1;
+  margin: 0 15px;
+  text-align: center;
+}
+
+.allimg h2 {
+  font-size: 1.5em;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.allimg p {
+  color: #666;
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.allimg img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.allimg button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 10px;
+}
+
+.allimg button:hover {
+  background-color: #0056b3;
+}
+
+.Carddisplay {
+  margin-top: 150px;
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.Carddisplay h1 {
+  font-size: 1.5em;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.Carddisplay span {
+  cursor: pointer;
+  margin: 0 10px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.Carddisplay span:hover {
+  color: #0056b3;
+}
+
+.Carddisplay button {
+  padding: 10px 20px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 20px;
+}
+
+.Carddisplay button:hover {
+  background-color: #c82333;
+}
