@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart-using-useReducer-Hooks-/static/css/main.9fa00210.css",
+    "main.js": "/Shopping-Cart-using-useReducer-Hooks-/static/js/main.39fc3ba3.js",
+    "static/media/block.jpg": "/Shopping-Cart-using-useReducer-Hooks-/static/media/block.8779a236a60023a8db67.jpg",
+    "static/media/toy.jpg": "/Shopping-Cart-using-useReducer-Hooks-/static/media/toy.f893d6fa77583f3fd525.jpg",
+    "static/media/copter.jpg": "/Shopping-Cart-using-useReducer-Hooks-/static/media/copter.552ab63149418f9d3c00.jpg",
+    "index.html": "/Shopping-Cart-using-useReducer-Hooks-/index.html",
+    "main.9fa00210.css.map": "/Shopping-Cart-using-useReducer-Hooks-/static/css/main.9fa00210.css.map",
+    "main.39fc3ba3.js.map": "/Shopping-Cart-using-useReducer-Hooks-/static/js/main.39fc3ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa00210.css",
+    "static/js/main.39fc3ba3.js"
+  ]
+}
